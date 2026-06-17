@@ -1,10 +1,9 @@
 # Hi, I'm Priyanshu 👋
 
-AI/ML Engineer with 3 years deploying ML, deep learning, and RL systems in production —
-plus research spanning NLP, computer vision, and LLM interpretability.
+AI/ML Engineer with 3 years deploying ML, deep learning, and RL systems in productionnplus research spanning NLP, computer vision, and LLM interpretability.
 
 Currently: MSc Computer Science @ University of Southampton
-Previously: Senior AI Engineer @ Infosys — built LLM agentic assistants & RAG pipelines serving 1,000+ users
+Previously: Senior AI Engineer @ Infosys built LLM agentic assistants & RAG pipelines serving 1,000+ users
 
 ## 🔧 Tools I work with
 Python · PyTorch · TensorFlow · LangChain · LangGraph · Hugging Face
